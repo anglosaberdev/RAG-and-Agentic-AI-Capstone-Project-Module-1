@@ -1,0 +1,3245 @@
+[
+    {
+        "name": "The Gilded Artichoke",
+        "location": "Silver Lake",
+        "type": "upscale bistro",
+        "food_style": "Farm-to-Table Californian",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "lavender-rubbed roasted chicken",
+            "heirloom tomato tarts"
+        ],
+        "vibe": "bohemian chic ambiance with high-end greenhouse aesthetics",
+        "environment": "feels like a high-end greenhouse with its reclaimed wood and floor-to-ceiling windows",
+        "shortcomings": [],
+        "itemId": 1000001
+    },
+    {
+        "name": "Mar de Cortez",
+        "location": "Santa Monica",
+        "type": "casual taqueria",
+        "food_style": "Baja-style seafood",
+        "rating": 4.2,
+        "price_range": 1,
+        "signatures": [
+            "beer-battered snapper tacos",
+            "zesty octopus ceviche"
+        ],
+        "vibe": "salt-air energy",
+        "environment": "a premier sun-drenched spot for open-air dining near the pier.",
+        "shortcomings": [],
+        "itemId": 1000002
+    },
+    {
+        "name": "Iron & Embers",
+        "location": "Arts District",
+        "type": "fine dining",
+        "food_style": "American steakhouse",
+        "rating": 4.8,
+        "price_range": 4,
+        "signatures": [
+            "45-day dry-aged ribeye",
+            "bone marrow chimichurri"
+        ],
+        "vibe": "moody and industrial",
+        "environment": "a commitment to the flame in a space that smells deeply of white oak smoke and masculine sophistication",
+        "shortcomings": [],
+        "itemId": 1000003
+    },
+    {
+        "name": "Sakura Garden",
+        "location": "Little Tokyo",
+        "type": "intimate Japanese Kaiseki-lite",
+        "food_style": "seasonal perfection",
+        "rating": 4.9,
+        "price_range": 3,
+        "signatures": [
+            "buttery bluefin tuna belly"
+        ],
+        "vibe": "zen and minimalist",
+        "environment": "a quiet escape focusing on seasonal perfection, where the bluefin tuna belly is served with a level of reverence.",
+        "shortcomings": [],
+        "itemId": 1000004
+    },
+    {
+        "name": "Pasta & Prose",
+        "location": "West Hollywood",
+        "type": "lively modern Italian trattoria",
+        "food_style": "modern Italian",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [
+            "table-side Cacio e Pepe tossed in a massive parmesan wheel"
+        ],
+        "vibe": "glamour hub where the energy is fueled by chilled prosecco",
+        "environment": "a see-and-be-seen spot with a theatrical touch",
+        "shortcomings": [],
+        "itemId": 1000005
+    },
+    {
+        "name": "The Golden Hummus",
+        "location": "Glendale",
+        "type": "family-style modern Lebanese eatery",
+        "food_style": "Lebanese",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "hummus topped with spiced wagyu beef"
+        ],
+        "vibe": "communal atmosphere",
+        "environment": "a bustling environment that makes every guest feel like part of a large, hungry family.",
+        "shortcomings": [],
+        "itemId": 1000006
+    },
+    {
+        "name": "Velvet & Vine",
+        "location": "Pasadena",
+        "type": "French-Mediterranean wine bar",
+        "food_style": "romantic small-plates",
+        "rating": 4.1,
+        "price_range": 2,
+        "signatures": [
+            "duck confit sliders",
+            "curated small-batch European wine list"
+        ],
+        "vibe": "sophisticated ambiance for evening dates",
+        "environment": "historic exposed-brick setting",
+        "shortcomings": [],
+        "itemId": 1000007
+    },
+    {
+        "name": "The Neon Noodle Bar",
+        "location": "San Gabriel Valley",
+        "type": "fast-casual",
+        "food_style": "Sichuan street food",
+        "rating": 4.4,
+        "price_range": 1,
+        "signatures": [
+            "numbing Dan Dan noodles",
+            "cumin lamb skewers"
+        ],
+        "vibe": "cyberpunk, funky",
+        "environment": "a younger crowd under the glow of vibrant pink neon lights",
+        "shortcomings": [],
+        "itemId": 1000008
+    },
+    {
+        "name": "The Morning Echo",
+        "location": "Echo Park",
+        "type": "elevated cafe",
+        "food_style": "hippie brunch",
+        "rating": 4.0,
+        "price_range": 2,
+        "signatures": [
+            "ricotta pancakes with honeycomb butter"
+        ],
+        "vibe": "slow morning involving ricotta pancakes with honeycomb butter and long sessions of people-watching from beneath their signature patio umbrellas",
+        "environment": "neighbourhood's go-to for a relaxed, people-watching brunch scene",
+        "shortcomings": [],
+        "itemId": 1000009
+    },
+    {
+        "name": "Sapphire Soul",
+        "location": "Inglewood",
+        "type": "Southern soul food fusion restaurant",
+        "food_style": "Southern soul food fusion",
+        "rating": 4.7,
+        "price_range": 2,
+        "signatures": [
+            "spicy hot-honey fried chicken",
+            "waffles"
+        ],
+        "vibe": "vibrant",
+        "environment": "a welcoming and soulful dining experience",
+        "shortcomings": [],
+        "itemId": 1000010
+    },
+    {
+        "name": "The Emerald Garden",
+        "location": "Culver City",
+        "type": "Vietnamese bistro",
+        "food_style": "lush",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [
+            "lemongrass branzino"
+        ],
+        "vibe": "tropical escape hidden in the city",
+        "environment": "refreshing, breezy environment for a mid-week dinner",
+        "shortcomings": [],
+        "itemId": 1000011
+    },
+    {
+        "name": "Salt & Sand",
+        "location": "Manhattan Beach",
+        "type": "casual-fine dining",
+        "food_style": "coastal Italian",
+        "rating": 4.3,
+        "price_range": 4,
+        "signatures": [
+            "uni linguine"
+        ],
+        "vibe": "upscale coastal Italian",
+        "environment": "a breezy seaside escape with culinary precision",
+        "shortcomings": [],
+        "itemId": 1000012
+    },
+    {
+        "name": "Guerrero Kitchen",
+        "location": "Boyle Heights",
+        "type": "community-focused family eatery",
+        "food_style": "Oaxacan",
+        "rating": 4.8,
+        "price_range": 1,
+        "signatures": [
+            "24-ingredient mole negro"
+        ],
+        "vibe": "vibrant",
+        "environment": "a local treasure, served in a space that feels like a colorful extension of a family home.",
+        "shortcomings": [],
+        "itemId": 1000013
+    },
+    {
+        "name": "The Velvet Lounge",
+        "location": "Beverly Hills",
+        "type": "old-Hollywood Continental supper club",
+        "food_style": "Continental",
+        "rating": 4.1,
+        "price_range": 3,
+        "signatures": [
+            "tableside steak tartare",
+            "stiff martinis"
+        ],
+        "vibe": "a crowd that appreciates timeless glamour of a dim-lit, plush booth",
+        "environment": "a sultry old-Hollywood atmosphere",
+        "shortcomings": [],
+        "itemId": 1000014
+    },
+    {
+        "name": "Seoul Soul",
+        "location": "Koreatown",
+        "type": "Korean BBQ hotspot",
+        "food_style": "premium wagyu cuts",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "high-energy, industrial",
+        "environment": "the perfect starting point for a night out in one of the city's most active nightlife districts.",
+        "shortcomings": [],
+        "itemId": 1000015
+    },
+    {
+        "name": "The Blue Fig",
+        "location": "Los Feliz",
+        "type": "bohemian and relaxed cafe",
+        "food_style": "Eastern Mediterranean",
+        "rating": 4.4,
+        "price_range": 4,
+        "signatures": [
+            "airy, wood-fired pita",
+            "deeply smoky eggplant mutabbal"
+        ],
+        "vibe": "a hidden neighborhood sanctuary",
+        "environment": "a hidden neighborhood sanctuary",
+        "shortcomings": [],
+        "itemId": 1000016
+    },
+    {
+        "name": "The Vinyl Bird",
+        "location": "Highland Park",
+        "type": "Fried Chicken shack",
+        "food_style": "Fried Chicken",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [
+            "Nashville-style fried chicken",
+            "honey-brushed biscuits"
+        ],
+        "vibe": "retro, vinyl-spinning energy",
+        "environment": "a space filled with the warm crackle of analog records",
+        "shortcomings": [],
+        "itemId": 1000017
+    },
+    {
+        "name": "The Obsidian Room",
+        "location": "Downtown LA",
+        "type": "omakase bar",
+        "food_style": "Experimental Japanese",
+        "rating": 4.9,
+        "price_range": 4,
+        "signatures": [
+            "innovative dry-aging fish program"
+        ],
+        "vibe": "minimalist and dark-chic",
+        "environment": "a hushed, focused experience that feels worlds away from the city streets",
+        "shortcomings": [],
+        "itemId": 1000018
+    },
+    {
+        "name": "The Green Leaf",
+        "location": "Venice Beach",
+        "type": "gastropub",
+        "food_style": "plant-based",
+        "rating": 3.9,
+        "price_range": 3,
+        "signatures": [
+            "jackfruit carnitas"
+        ],
+        "vibe": "relaxed weekend hangout",
+        "environment": "earthy, sun-soaked vibe",
+        "shortcomings": [
+            "earthy, sun-soaked vibe"
+        ],
+        "itemId": 1000019
+    },
+    {
+        "name": "The Copper Pot",
+        "location": "Pasadena",
+        "type": "Modern Indian dining room",
+        "food_style": "Modern Indian",
+        "rating": 4.7,
+        "price_range": 2,
+        "signatures": [
+            "butter chicken pot pie",
+            "deconstructed samosas"
+        ],
+        "vibe": "warm and sophisticated",
+        "environment": "an elegant space defined by rich copper accents and soft amber lighting",
+        "shortcomings": [],
+        "itemId": 1000020
+    },
+    {
+        "name": "The Rustic Olive",
+        "location": "Sherman Oaks",
+        "type": "Traditional Italian trattoria",
+        "food_style": "authentic handmade pappardelle with wild boar ragu",
+        "rating": 4.4,
+        "price_range": 2,
+        "signatures": [
+            "handmade pappardelle with wild boar ragu"
+        ],
+        "vibe": "cozy and candlelit",
+        "environment": "intimate setting perfect for families or quiet dates in the Valley.",
+        "shortcomings": [],
+        "itemId": 1000021
+    },
+    {
+        "name": "Noche de Luz",
+        "location": "Silver Lake",
+        "type": "spanish tapas wine bar",
+        "food_style": "small plates with big impact",
+        "rating": 4.5,
+        "price_range": 3,
+        "signatures": [
+            "crispy-bottomed paella",
+            "curated sherry list"
+        ],
+        "vibe": "sultry, dim-lit",
+        "environment": "encourages long, lingering evenings on their hidden back patio",
+        "shortcomings": [],
+        "itemId": 1000022
+    },
+    {
+        "name": "The Silk Road",
+        "location": "Glendale",
+        "type": "fine-dining",
+        "food_style": "Persian",
+        "rating": 4.8,
+        "price_range": 2,
+        "signatures": [
+            "saffron-infused Koobideh kabobs",
+            "herb-heavy stews"
+        ],
+        "vibe": "opulent and regal",
+        "environment": "a masterclass in spice and texture served in a room adorned with intricate Persian carpets and crystal chandeliers",
+        "shortcomings": [],
+        "itemId": 1000023
+    },
+    {
+        "name": "Waffle & Wick",
+        "location": "Long Beach",
+        "type": "Breakfast & Brunch",
+        "food_style": "creative comfort food",
+        "rating": 4.1,
+        "price_range": 1,
+        "signatures": [
+            "savory chicken-and-waffle stacks",
+            "house-made infused syrups"
+        ],
+        "vibe": "energetic",
+        "environment": "high-ceilinged loft space",
+        "shortcomings": [],
+        "itemId": 1000024
+    },
+    {
+        "name": "The Golden Pagoda",
+        "location": "Chinatown",
+        "type": "Dim Sum parlor",
+        "food_style": "traditional dim sum",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [
+            "shrimp har gow",
+            "steamed pork buns"
+        ],
+        "vibe": "bustling and traditional",
+        "environment": "classic, fast-paced atmosphere for weekend gatherings",
+        "shortcomings": [],
+        "itemId": 1000025
+    },
+    {
+        "name": "Surfside Grill",
+        "location": "Malibu",
+        "type": "American Seafood shack",
+        "food_style": "American Seafood",
+        "rating": 4.0,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "rugged, oceanfront",
+        "environment": "the quintessential stop after a day on the Pacific Coast Highway",
+        "shortcomings": [],
+        "itemId": 1000026
+    },
+    {
+        "name": "The Iron Skillet",
+        "location": "Compton",
+        "type": "Soul Food kitchen",
+        "food_style": "homestyle and welcoming",
+        "rating": 4.7,
+        "price_range": 3,
+        "signatures": [
+            "smothered pork chops",
+            "peach cobbler"
+        ],
+        "vibe": "homestyle and welcoming",
+        "environment": "a humble, friendly dining room",
+        "shortcomings": [],
+        "itemId": 1000027
+    },
+    {
+        "name": "The Neon Crane",
+        "location": "Westwood",
+        "type": "Sushi fusion spot",
+        "food_style": "playful sushi rolls",
+        "rating": 4.2,
+        "price_range": 1,
+        "signatures": [
+            "spicy tuna crispy rice",
+            "volcano rolls"
+        ],
+        "vibe": "trendy and neon-lit environment like a modern Tokyo lounge",
+        "environment": "caters to a younger, high-energy crowd",
+        "shortcomings": [],
+        "itemId": 1000028
+    },
+    {
+        "name": "The Thirsty Cactus",
+        "location": "North Hollywood",
+        "type": "Tex-Mex cantina",
+        "food_style": "Tex-Mex",
+        "rating": 3.8,
+        "price_range": 1,
+        "signatures": [
+            "oversized frozen margaritas",
+            "brisket tacos"
+        ],
+        "vibe": "festive and eclectic",
+        "environment": "a colorful and loud backdrop for big groups, birthdays, and celebrations",
+        "shortcomings": [],
+        "itemId": 1000029
+    },
+    {
+        "name": "The Stone Hearth",
+        "location": "Topanga",
+        "type": "eatery",
+        "food_style": "New American",
+        "rating": 4.6,
+        "price_range": 3,
+        "signatures": [],
+        "vibe": "mystical and woodland",
+        "environment": "a serene dining experience tucked into the mountains where the sound of the wind in the trees is the only soundtrack you need.",
+        "shortcomings": [],
+        "itemId": 1000030
+    },
+    {
+        "name": "The Spice Alchemist",
+        "location": "Alhambra",
+        "type": "vibrant and modern eatery",
+        "food_style": "Szechuan",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "numbing peppercorn chicken"
+        ],
+        "vibe": "vibrant and modern eatery that pushes the boundaries of traditional heat, sleek and minimalist decor that balances the intensity of the food with a calm, clean aesthetic",
+        "environment": "vibrant and modern Szechuan eatery that balances intensity of food with calm clean aesthetic",
+        "shortcomings": [],
+        "itemId": 1000031
+    },
+    {
+        "name": "Maritime Provisions",
+        "location": "San Pedro",
+        "type": "American Seafood",
+        "food_style": "wharf-style",
+        "rating": 4.2,
+        "price_range": 1,
+        "signatures": [],
+        "vibe": "salty and industrial",
+        "environment": "a no-frills, high-quality experience by the docks for those who love the smell of the sea.",
+        "shortcomings": [],
+        "itemId": 1000032
+    },
+    {
+        "name": "The Lavender Husk",
+        "location": "Abbot Kinney",
+        "type": "Modern Vegan bistro",
+        "food_style": "vegetables treated with the reverence of fine meat",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "smoked beet tartare"
+        ],
+        "vibe": "chic and airy",
+        "environment": "sun-drenched space filled with hanging plants and light oak furniture that epitomizes the Venice lifestyle.",
+        "shortcomings": [],
+        "itemId": 1000033
+    },
+    {
+        "name": "Little Sicily",
+        "location": "San Pedro",
+        "type": "Italian-American deli",
+        "food_style": "homestyle and bustling",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [
+            "Godfather sub",
+            "massive meatballs"
+        ],
+        "vibe": "homestyle and bustling",
+        "environment": "a space crowded with vintage family photos and the constant chatter of neighborhood regulars",
+        "shortcomings": [],
+        "itemId": 1000034
+    },
+    {
+        "name": "The Saffron Loom",
+        "location": "Tehrangeles (Westwood)",
+        "type": "tea house and grill",
+        "food_style": "Persian",
+        "rating": 4.7,
+        "price_range": 3,
+        "signatures": [
+            "tahdig (crispy rice)",
+            "albaloo polo with cherry-infused flavor"
+        ],
+        "vibe": "elegant and aromatic",
+        "environment": "a sophisticated room draped in jewel-toned fabrics and copper lanterns",
+        "shortcomings": [],
+        "itemId": 1000035
+    },
+    {
+        "name": "Cielito Lindo Lounge",
+        "location": "East LA",
+        "type": "Contemporary Mexican",
+        "food_style": "Contemporary Mexican",
+        "rating": 4.3,
+        "price_range": 2,
+        "signatures": [
+            "duck carnitas with blackberry mole"
+        ],
+        "vibe": "festive and soulful",
+        "environment": "enjoyed under a canopy of colorful papel picado.",
+        "shortcomings": [],
+        "itemId": 1000036
+    },
+    {
+        "name": "The Brass Monkey",
+        "location": "Koreatown",
+        "type": "gastropub",
+        "food_style": "Korean-American",
+        "rating": 4.1,
+        "price_range": 4,
+        "signatures": [
+            "kimchi-topped poutine",
+            "bulgogi sliders"
+        ],
+        "vibe": "high-energy",
+        "environment": "a rowdy, neon-soaked backdrop for those starting or ending a night of karaoke.",
+        "shortcomings": [],
+        "itemId": 1000037
+    },
+    {
+        "name": "Willow & Ash",
+        "location": "Eagle Rock",
+        "type": "New American smokehouse",
+        "food_style": "low-and-slow brisket, smoked trout salad",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "low-and-slow brisket",
+            "smoked trout salad"
+        ],
+        "vibe": "cozy and rustic mountain cabin",
+        "environment": "attracts a local crowd of families and foodies who appreciate the wood-burning fireplace and unpretentious service",
+        "shortcomings": [],
+        "itemId": 1000038
+    },
+    {
+        "name": "The Marigold Room",
+        "location": "Artesia",
+        "type": "South Indian",
+        "food_style": "vegetarian",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "paper-thin three-foot-long dosas",
+            "vibrant coconut chutneys"
+        ],
+        "vibe": "bright and ornate South Indian vegetarian restaurant",
+        "environment": "always humming with activity",
+        "shortcomings": [],
+        "itemId": 1000039
+    },
+    {
+        "name": "Pacific Peak",
+        "location": "Burbank",
+        "type": "retro-futuristic diner",
+        "food_style": "American",
+        "rating": 3.9,
+        "price_range": 1,
+        "signatures": [],
+        "vibe": "more about the vibe than the culinary complexity, 1950s vision of the year 2000",
+        "environment": "solid milkshakes and 'studio club' sandwiches in a space that looks like a 1950s vision of the year 2000.",
+        "shortcomings": [],
+        "itemId": 1000040
+    },
+    {
+        "name": "The Blue Ribbon",
+        "location": "South Pasadena",
+        "type": "creperie",
+        "food_style": "French",
+        "rating": 4.5,
+        "price_range": 1,
+        "signatures": [
+            "buckwheat galettes",
+            "sweet lemon-sugar crepes"
+        ],
+        "vibe": "peaceful, sidewalk-cafe vibe that feels like a small pocket of Paris.",
+        "environment": "quiet side street",
+        "shortcomings": [],
+        "itemId": 1000041
+    },
+    {
+        "name": "Saltwood Smoke",
+        "location": "Torrance",
+        "type": "Texas-style BBQ pit",
+        "food_style": "Brisket",
+        "rating": 4.7,
+        "price_range": 1,
+        "signatures": [
+            "moist brisket on butcher paper",
+            "homemade spicy pickles"
+        ],
+        "vibe": "industrial and casual",
+        "environment": "warehouse setting where the focus is on the smoke ring and homemade pickles",
+        "shortcomings": [],
+        "itemId": 1000042
+    },
+    {
+        "name": "The Urban Orchard",
+        "location": "Mid-Wilshire",
+        "type": "business lunch spot",
+        "food_style": "New American",
+        "rating": 4.0,
+        "price_range": 4,
+        "signatures": [
+            "kale-and-quinoa power bowls",
+            "seared salmon"
+        ],
+        "vibe": "clean, quiet environment for mid-day meetings",
+        "environment": "sleek and professional",
+        "shortcomings": [],
+        "itemId": 1000043
+    },
+    {
+        "name": "Taco Nocturna",
+        "location": "Whittier",
+        "type": "Mexican night-market stall",
+        "food_style": "Mexican",
+        "rating": 4.3,
+        "price_range": 1,
+        "signatures": [
+            "vampiro tacos",
+            "charcoal-grilled onions"
+        ],
+        "vibe": "gritty, street-food energy",
+        "environment": "maintains a gritty, street-food energy despite its stylish new interior.",
+        "shortcomings": [],
+        "itemId": 1000044
+    },
+    {
+        "name": "The Golden Gyoza",
+        "location": "Gardena",
+        "type": "dumpling house",
+        "food_style": "Japanese gyoza",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [
+            "pan-fried gyoza"
+        ],
+        "vibe": "minimalist and fast-paced",
+        "environment": "a tiny, wooden-stooled shop that prioritizes efficiency and flavor over frills.",
+        "shortcomings": [],
+        "itemId": 1000045
+    },
+    {
+        "name": "Breeze & Barrel",
+        "location": "Redondo Beach",
+        "type": "Seafood lounge",
+        "food_style": "Seafood",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [],
+        "vibe": "refined take on the beach bar",
+        "environment": "a panoramic view of the harbor.",
+        "shortcomings": [],
+        "itemId": 1000046
+    },
+    {
+        "name": "The Matcha Manor",
+        "location": "Sawtelle Japantown",
+        "type": "Japanese Dessert cafe",
+        "food_style": "Japanese desserts",
+        "rating": 4.1,
+        "price_range": 2,
+        "signatures": [
+            "matching parfaits",
+            "black sesame mochi waffles"
+        ],
+        "vibe": "whimsical and pastel",
+        "environment": "a bright, sugary escape for the weekend crowds",
+        "shortcomings": [],
+        "itemId": 1000047
+    },
+    {
+        "name": "Iron Root",
+        "location": "Northridge",
+        "type": "beer hall",
+        "food_style": "German",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "oversized pretzels",
+            "schnitzel platters",
+            "massive steins of lager"
+        ],
+        "vibe": "festive, loud",
+        "environment": "a space with long communal tables set in a celebratory atmosphere",
+        "shortcomings": [],
+        "itemId": 1000048
+    },
+    {
+        "name": "The Velvet Apron",
+        "location": "Bel Air",
+        "type": "fine dining",
+        "food_style": "French-Californian",
+        "rating": 4.8,
+        "price_range": 4,
+        "signatures": [
+            "truffle-infused risotto"
+        ],
+        "vibe": "exclusive and hushed",
+        "environment": "feels more like a private, opulent estate than a public restaurant",
+        "shortcomings": [],
+        "itemId": 1000049
+    },
+    {
+        "name": "The Neon Noodle Bar",
+        "location": "Monterey Park",
+        "type": "fast and funky",
+        "food_style": "Hong Kong",
+        "rating": 4.0,
+        "price_range": 2,
+        "signatures": [
+            "instant noodle gourmet bowls",
+            "pineapple buns with cold butter"
+        ],
+        "vibe": "high-energy spot",
+        "environment": "a high-energy spot for instant noodle gourmet bowls and pineapple buns with cold butter, capturing the frenetic and delicious energy of a late-night HK diner.",
+        "shortcomings": [],
+        "itemId": 1000050
+    },
+    {
+        "name": "The Copper Tandoor",
+        "location": "Studio City",
+        "type": "Modern Indian grill",
+        "food_style": "Modern Indian",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "truffle naan",
+            "lamb chops marinated in a secret yogurt-spice blend"
+        ],
+        "vibe": "refined and glowing upscale room",
+        "environment": "dominated by a massive, open-fire clay oven and deep velvet booths",
+        "shortcomings": [],
+        "itemId": 1000051
+    },
+    {
+        "name": "Miso Hungry",
+        "location": "Sawtelle",
+        "type": "ramen den",
+        "food_style": "Japanese",
+        "rating": 4.4,
+        "price_range": 2,
+        "signatures": [
+            "18-hour tonkotsu broth"
+        ],
+        "vibe": "quirky and cramped",
+        "environment": "tiny, steam-filled space where the slurping of noodles provides a constant, rhythmic soundtrack to the meal.",
+        "shortcomings": [
+            "cramped space"
+        ],
+        "itemId": 1000052
+    },
+    {
+        "name": "The Olive Grove",
+        "location": "Tarzana",
+        "type": "taverna",
+        "food_style": "Greek",
+        "rating": 4.3,
+        "price_range": 2,
+        "signatures": [
+            "charred octopus",
+            "lemon-oregano chicken"
+        ],
+        "vibe": "tranquil and airy",
+        "environment": "white-washed patio environment that feels a world away from the busy Ventura Boulevard traffic just outside",
+        "shortcomings": [],
+        "itemId": 1000053
+    },
+    {
+        "name": "Smoke & Silk",
+        "location": "Cerritos",
+        "type": "modern and sleek Chinese BBQ house",
+        "food_style": "traditional Cantonese meats",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "honey-glazed char siu"
+        ],
+        "vibe": "modern and sleek",
+        "environment": "elevates traditional Cantonese meats in an environment of dark wood and dim lighting that makes a humble plate of roast duck feel like a luxury experience.",
+        "shortcomings": [],
+        "itemId": 1000054
+    },
+    {
+        "name": "The Blue Agave",
+        "location": "Santa Monica",
+        "type": "upscale Oaxacan-Fusion kitchen",
+        "food_style": "grasshopper-topped guacamole and mezcal cocktails",
+        "rating": 4.1,
+        "price_range": 1,
+        "signatures": [],
+        "vibe": "breezy and upscale",
+        "environment": "a chic, coastal vibe that caters to the city\u2019s health-conscious but flavor-seeking elite.",
+        "shortcomings": [],
+        "itemId": 1000055
+    },
+    {
+        "name": "Grain & Grapes",
+        "location": "Claremont",
+        "type": "wine bar",
+        "food_style": "New American",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [],
+        "vibe": "warm and intellectual",
+        "environment": "a quiet, bookish atmosphere perfect for long conversations over a glass of Central Coast Pinot.",
+        "shortcomings": [],
+        "itemId": 1000056
+    },
+    {
+        "name": "The Salty Pig",
+        "location": "Huntington Beach",
+        "type": "Gastropub",
+        "food_style": "pork-focused",
+        "rating": 3.9,
+        "price_range": 3,
+        "signatures": [
+            "bacon-wrapped dates",
+            "pulled pork sliders"
+        ],
+        "vibe": "rowdy and rustic",
+        "environment": "a paradise for pork lovers, high ceilings, loud rock music, and a massive selection of regional craft IPAs",
+        "shortcomings": [],
+        "itemId": 1000057
+    },
+    {
+        "name": "Kimchi Kingdom",
+        "location": "Gardena",
+        "type": "no-nonsense and traditional Korean comfort food spot",
+        "food_style": "",
+        "rating": 4.7,
+        "price_range": 4,
+        "signatures": [
+            "silken tofu soup (soondubu)",
+            "extensive banchan spread"
+        ],
+        "vibe": "",
+        "environment": "a bright, family-run dining room that prioritizes flavor over aesthetics.",
+        "shortcomings": [],
+        "itemId": 1000058
+    },
+    {
+        "name": "The Velvet Bean",
+        "location": "Larchmont Village",
+        "type": "European-style cafe",
+        "food_style": "sophisticated and cozy",
+        "rating": 4.4,
+        "price_range": 1,
+        "signatures": [
+            "meticulous pour-overs",
+            "lavender-infused pastries"
+        ],
+        "vibe": "peaceful sidewalk-seating experience",
+        "environment": "where locals gather to read the morning paper in a refined, quiet atmosphere.",
+        "shortcomings": [],
+        "itemId": 1000059
+    },
+    {
+        "name": "Taco Tradici\u00f3n",
+        "location": "East Los Angeles",
+        "type": "vibrant and historic Mexican taqueria",
+        "food_style": "al pastor from a towering trompo",
+        "rating": 4.8,
+        "price_range": 3,
+        "signatures": [
+            "al pastor sliced thin from a towering trompo"
+        ],
+        "vibe": "bustling, colorful space where the focus is entirely on the perfect handmade corn tortilla",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000060
+    },
+    {
+        "name": "The Gilded Lily",
+        "location": "West Hollywood",
+        "type": "French-Vietnamese fusion lounge",
+        "food_style": "high-concept",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [
+            "shaking beef with truffle oil"
+        ],
+        "vibe": "glamorous and theatrical",
+        "environment": "an interior of gold-leafed pillars and silk drapes",
+        "shortcomings": [],
+        "itemId": 1000061
+    },
+    {
+        "name": "Urban Harvest",
+        "location": "Pasadena",
+        "type": "clean and minimalist deli",
+        "food_style": "Plant-Based",
+        "rating": 4.0,
+        "price_range": 1,
+        "signatures": [
+            "smoked carrot \"lox\" bagels",
+            "cold-pressed juices"
+        ],
+        "vibe": "bright and healthy environment for a quick, guilt-free lunch",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000062
+    },
+    {
+        "name": "The Iron Wok",
+        "location": "Rowland Heights",
+        "type": "street food hall",
+        "food_style": "Taiwanese",
+        "rating": 4.5,
+        "price_range": 3,
+        "signatures": [
+            "crispy salt-and-pepper chicken",
+            "shaved ice desserts"
+        ],
+        "vibe": "energetic and industrial",
+        "environment": "massive, neon-lit space that captures the frenetic energy of a Taipei night market",
+        "shortcomings": [],
+        "itemId": 1000063
+    },
+    {
+        "name": "Midnight in Milan",
+        "location": "Downtown LA",
+        "type": "ristorante",
+        "food_style": "Northern Italian",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "risotto",
+            "veal osso buco"
+        ],
+        "vibe": "sultry and fashionable",
+        "environment": "a moody, high-ceilinged room in the Fashion District that attracts a stylish, late-night crowd.",
+        "shortcomings": [],
+        "itemId": 1000064
+    },
+    {
+        "name": "The Cedar Room",
+        "location": "Encino",
+        "type": "American chophouse",
+        "food_style": "traditional American",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [],
+        "vibe": "nostalgic",
+        "environment": "a nostalgic, white-tablecloth experience with a quiet, carpeted dining room",
+        "shortcomings": [],
+        "itemId": 1000065
+    },
+    {
+        "name": "Pho Highland",
+        "location": "Highland Park",
+        "type": "bright and trendy Vietnamese noodle shop",
+        "food_style": "traditional and vegan broth pho",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [
+            "clean, aromatic beef pho",
+            "vegan broth options"
+        ],
+        "vibe": "bright atmosphere filled with local art and upbeat indie music",
+        "environment": "a trendy space with a blend of tradition and hipster sensibility",
+        "shortcomings": [],
+        "itemId": 1000066
+    },
+    {
+        "name": "The Golden Hook",
+        "location": "Redondo Beach",
+        "type": "Seafood market and grill",
+        "food_style": "Seafood",
+        "rating": 4.4,
+        "price_range": 1,
+        "signatures": [
+            "yellowtail collars",
+            "grilled oysters"
+        ],
+        "vibe": "classic 'shack' experience",
+        "environment": "eat on picnic tables overlooking the marina.",
+        "shortcomings": [],
+        "itemId": 1000067
+    },
+    {
+        "name": "Saffron & Sage",
+        "location": "Culver City",
+        "type": "modern Middle Eastern grill",
+        "food_style": "Middle Eastern",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "pomegranate-glazed kebabs",
+            "house-made labneh"
+        ],
+        "vibe": "modern and airy",
+        "environment": "a beautiful, light-filled space with hanging eucalyptus and warm terracotta tiles.",
+        "shortcomings": [],
+        "itemId": 1000068
+    },
+    {
+        "name": "The Sugar Mill",
+        "location": "Glendale",
+        "type": "Dessert boutique",
+        "food_style": "whimsical and over-the-top desserts",
+        "rating": 3.8,
+        "price_range": 3,
+        "signatures": [],
+        "vibe": "an Instagrammer's dream, bright, sugar-fueled environment",
+        "environment": "ideal for birthday parties and tourists",
+        "shortcomings": [
+            "overly sweet",
+            "lacks savory options"
+        ],
+        "itemId": 1000069
+    },
+    {
+        "name": "Blue Bayou",
+        "location": "Long Beach",
+        "type": "Cajun & Creole kitchen",
+        "food_style": "Cajun & Creole",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "moody and soulful",
+        "environment": "a dim-lit room that often features live jazz on the weekends",
+        "shortcomings": [],
+        "itemId": 1000070
+    },
+    {
+        "name": "The Glass Onion",
+        "location": "Silver Lake",
+        "type": "retro and eccentric",
+        "food_style": "New American",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [
+            "duck-fat tater tots",
+            "mis maple salmon"
+        ],
+        "vibe": "retro and eccentric",
+        "environment": "a space filled with mid-century furniture and mismatched china.",
+        "shortcomings": [],
+        "itemId": 1000071
+    },
+    {
+        "name": "The Rustic Crust",
+        "location": "Altadena",
+        "type": "Wood-Fired pizzeria",
+        "food_style": "seasonal toppings such as squash blossoms",
+        "rating": 4.7,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "family-friendly and cozy neighbourhood feel",
+        "environment": "a warm, wood-scented room that feels like a neighbour\u2019s kitchen. ",
+        "shortcomings": [],
+        "itemId": 1000072
+    },
+    {
+        "name": "Siren's Call",
+        "location": "Malibu",
+        "type": "fine-dining",
+        "food_style": "Seafood",
+        "rating": 4.5,
+        "price_range": 2,
+        "signatures": [
+            "spot prawns",
+            "sea urchin"
+        ],
+        "vibe": "romantic",
+        "environment": "high-end establishment perched on the cliffs with a breathtaking sunset view",
+        "shortcomings": [],
+        "itemId": 1000073
+    },
+    {
+        "name": "The Noodle Nest",
+        "location": "San Gabriel",
+        "type": "quiet and minimalist Hand-Pulled Noodle shop",
+        "food_style": "Hand-Pulled Noodle",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "biang biang noodles in a spicy chili oil"
+        ],
+        "vibe": "quiet and minimalist",
+        "environment": "a clean, no-frills environment",
+        "shortcomings": [],
+        "itemId": 1000074
+    },
+    {
+        "name": "The Velvet Vine",
+        "location": "Los Feliz",
+        "type": "French wine bar and bistro",
+        "food_style": "French",
+        "rating": 4.1,
+        "price_range": 2,
+        "signatures": [
+            "steak frites"
+        ],
+        "vibe": "charming and dim-lit",
+        "environment": "an intimate, candlelit vibe perfect for a low-key date night near the Griffith Observatory",
+        "shortcomings": [],
+        "itemId": 1000075
+    },
+    {
+        "name": "The Hearth & Hive",
+        "location": "Eagle Rock",
+        "type": "New American kitchen",
+        "food_style": "New American",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "honeycomb-topped ricotta toast",
+            "wood-fired flatbreads"
+        ],
+        "vibe": "modern farmhouse with communal long tables and a pervasive scent of burning applewood.",
+        "environment": "rustic and sun-drenched space.",
+        "shortcomings": [],
+        "itemId": 1000076
+    },
+    {
+        "name": "Sakura Skies",
+        "location": "Torrance",
+        "type": "izakaya",
+        "food_style": "Japanese",
+        "rating": 4.7,
+        "price_range": 4,
+        "signatures": [
+            "charcoal-grilled yakitori",
+            "chilled agedashi tofu"
+        ],
+        "vibe": "serene and authentic",
+        "environment": "a hushed space catering to the city's deep-rooted Nikkei community with an exceptional sake list",
+        "shortcomings": [],
+        "itemId": 1000077
+    },
+    {
+        "name": "The Midnight Mule",
+        "location": "Echo Park",
+        "type": "Fusion Tapas lounge",
+        "food_style": "late-night kimchi quesadillas and strong ginger cocktails",
+        "rating": 4.0,
+        "price_range": 0,
+        "signatures": [
+            "kimchi quesadillas",
+            "strong ginger cocktails"
+        ],
+        "vibe": "gritty and electric, capturing the neighborhood's enduring indie spirit",
+        "environment": "a dim-lit, vinyl-spinning atmosphere just steps from the lake",
+        "shortcomings": [
+            "loud music may not be suitable for all"
+        ],
+        "itemId": 1000078
+    },
+    {
+        "name": "The Golden Vine",
+        "location": "Temecula",
+        "type": "Italian winery restaurant",
+        "food_style": "Italian",
+        "rating": 4.5,
+        "price_range": 3,
+        "signatures": [
+            "lobster ravioli",
+            "estate-grown Cabernet"
+        ],
+        "vibe": "stately and scenic",
+        "environment": "a premier destination for weekend escapes and celebratory lunches with sweeping view of the rolling vineyards",
+        "shortcomings": [],
+        "itemId": 1000079
+    },
+    {
+        "name": "Taco Tesoro",
+        "location": "Whittier",
+        "type": "street-food boutique",
+        "food_style": "Mexican",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "suadero tacos"
+        ],
+        "vibe": "vibrant and minimalist",
+        "environment": "a bright white space accented with emerald tiles that elevates the traditional taco stand experience into something modern and chic.",
+        "shortcomings": [],
+        "itemId": 1000080
+    },
+    {
+        "name": "The Ivory Room",
+        "location": "Beverly Hills",
+        "type": "Continental steakhouse",
+        "food_style": "classics",
+        "rating": 4.2,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "opulent and hushed atmosphere like a step back into the 1940s",
+        "environment": "focuses on classics like creamed spinach, jumbo shrimp cocktail, and prime rib served by career waiters in a room draped in white linen and heavy velvet",
+        "shortcomings": [],
+        "itemId": 1000081
+    },
+    {
+        "name": "The Blue Lotus",
+        "location": "Westminster",
+        "type": "banquet hall",
+        "food_style": "Vietnamese",
+        "rating": 4.3,
+        "price_range": 0,
+        "signatures": [
+            "Seven Courses of Beef",
+            "crisp sizzling crepes"
+        ],
+        "vibe": "a high-energy, celebratory environment that is a cornerstone of the local community's social life",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000082
+    },
+    {
+        "name": "Common Thread",
+        "location": "Arts District (DTLA)",
+        "type": "tasting room",
+        "food_style": "New American",
+        "rating": 4.8,
+        "price_range": 3,
+        "signatures": [
+            "experimental dishes like smoked koji-aged carrots"
+        ],
+        "vibe": "industrial and high-concept",
+        "environment": "served in a converted sewing factory that retains its raw concrete and steel bones",
+        "shortcomings": [],
+        "itemId": 1000083
+    },
+    {
+        "name": "The Salted Lemon",
+        "location": "Sherman Oaks",
+        "type": "Mediterranean cafe",
+        "food_style": "Mediterranean",
+        "rating": 4.1,
+        "price_range": 4,
+        "signatures": [
+            "lemon-zest linguine",
+            "grilled halloumi salads"
+        ],
+        "vibe": "bright and breezy Mediterranean atmosphere",
+        "environment": "local favorite for weekend brunch in a cheerful, yellow-accented patio",
+        "shortcomings": [],
+        "itemId": 1000084
+    },
+    {
+        "name": "Mariscos El Faro",
+        "location": "Wilmington",
+        "type": "casual Mexican seafood cafe",
+        "food_style": "Mexican seafood",
+        "rating": 4.7,
+        "price_range": 3,
+        "signatures": [
+            "Aguachile Verde",
+            "smoked marlin tacos"
+        ],
+        "vibe": "gritty, authentic",
+        "environment": "a gritty, authentic experience where the freshness of the seafood is the undisputed star of the show.",
+        "shortcomings": [],
+        "itemId": 1000085
+    },
+    {
+        "name": "The Velvet Raven",
+        "location": "Burbank",
+        "type": "Gastropub",
+        "food_style": "American",
+        "rating": 3.9,
+        "price_range": 2,
+        "signatures": [
+            "Deathly Hallows cocktails",
+            "truffle-dusted fries"
+        ],
+        "vibe": "moody and theatrical",
+        "environment": "a dim, candlelit escape from the bright California sun beloved by the local studio crowd",
+        "shortcomings": [
+            "slight gothic edge may not appeal to all"
+        ],
+        "itemId": 1000086
+    },
+    {
+        "name": "Ginger & Gold",
+        "location": "Monterey Park",
+        "type": "Cantonese seafood house",
+        "food_style": "Cantonese seafood",
+        "rating": 4.5,
+        "price_range": 2,
+        "signatures": [
+            "ginger-scallion lobster",
+            "honey-glazed walnut shrimp"
+        ],
+        "vibe": "sophisticated, large-format dining experience with round tables and white-glove service in a contemporary, light-filled room",
+        "environment": "sleek and modern Cantonese seafood house in Monterey Park",
+        "shortcomings": [],
+        "itemId": 1000087
+    },
+    {
+        "name": "The Rustic Rye",
+        "location": "South Pasadena",
+        "type": "bakery and bistro",
+        "food_style": "American",
+        "rating": 4.4,
+        "price_range": 4,
+        "signatures": [
+            "sourdough boules",
+            "short-rib pot pies"
+        ],
+        "vibe": "cozy and nostalgic feel like a charming 1920s general store, complete with creaky wooden floors and warm yellow lighting",
+        "environment": "cozy and nostalgic setting that evokes the charm of a 1920s general store with creaky wooden floors and warm yellow lighting",
+        "shortcomings": [],
+        "itemId": 1000088
+    },
+    {
+        "name": "Saffron Sunset",
+        "location": "Malibu",
+        "type": "bohemian fusion",
+        "food_style": "Persian-Californian",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [],
+        "vibe": "relaxed ocean-view patio",
+        "environment": "elegant kebabs and local organic produce, scented with jasmine and grilled saffron chicken.",
+        "shortcomings": [],
+        "itemId": 1000089
+    },
+    {
+        "name": "The Iron Kettle",
+        "location": "Fullerton",
+        "type": "Korean soup house",
+        "food_style": "Sulungtang (ox bone soup)",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [
+            "Sulungtang (ox bone soup)"
+        ],
+        "vibe": "warm and traditional",
+        "environment": "a simple, clean environment where the focus is entirely on the soul-warming properties of the broth",
+        "shortcomings": [],
+        "itemId": 1000090
+    },
+    {
+        "name": "The Glass House",
+        "location": "Culver City",
+        "type": "fine-dining",
+        "food_style": "Plant-Based",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "",
+        "environment": "served in an architecturally significant glass cube that glows like a lantern at night",
+        "shortcomings": [],
+        "itemId": 1000091
+    },
+    {
+        "name": "Taco de Oro",
+        "location": "Pacoima",
+        "type": "Mexican",
+        "food_style": "traditional",
+        "rating": 4.8,
+        "price_range": 3,
+        "signatures": [
+            "crispy hard-shell tacos",
+            "legendary salsa roja"
+        ],
+        "vibe": "historic and colorful",
+        "environment": "humble building decorated with murals that tell the story of the neighborhood",
+        "shortcomings": [],
+        "itemId": 1000092
+    },
+    {
+        "name": "The Copper Whisk",
+        "location": "Long Beach",
+        "type": "Breakfast & Brunch spot",
+        "food_style": "American",
+        "rating": 4.3,
+        "price_range": 1,
+        "signatures": [
+            "red velvet pancakes",
+            "spicy chorizo hash"
+        ],
+        "vibe": "loud, joyful",
+        "environment": "a loud, joyful environment with local art on the walls and a heavy rotation of funk and soul music.",
+        "shortcomings": [],
+        "itemId": 1000093
+    },
+    {
+        "name": "The Silk Parasol",
+        "location": "San Gabriel",
+        "type": "tea house",
+        "food_style": "Taiwanese",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "minced pork over rice",
+            "oolong-infused smoked fish"
+        ],
+        "vibe": "refined and quiet",
+        "environment": "a meditative, wood-paneled escape from the bustling commercial centers nearby",
+        "shortcomings": [],
+        "itemId": 1000094
+    },
+    {
+        "name": "The Harbor Light",
+        "location": "San Pedro",
+        "type": "seafood grill",
+        "food_style": "American",
+        "rating": 4.0,
+        "price_range": 1,
+        "signatures": [],
+        "vibe": "salt-air energy",
+        "environment": "a classic and rugged atmosphere, authentically tied to the working-class roots of the Los Angeles Port.",
+        "shortcomings": [],
+        "itemId": 1000095
+    },
+    {
+        "name": "The Painted Plate",
+        "location": "Arts District (DTLA)",
+        "type": "bistro",
+        "food_style": "Modern Mexican",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "hibiscus-glazed duck",
+            "blue corn tortillas pressed to order"
+        ],
+        "vibe": "a vibrant and artistic Modern Mexican bistro",
+        "environment": "a space that doubles as a gallery for local muralists",
+        "shortcomings": [],
+        "itemId": 1000096
+    },
+    {
+        "name": "The Wild Fig",
+        "location": "Agoura Hills",
+        "type": "Middle Eastern",
+        "food_style": "upscale",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [
+            "lamb shank",
+            "pomegranate walnut stew"
+        ],
+        "vibe": "tranquil and upscale dining room",
+        "environment": "sophisticated retreat for those living in the western reaches of the Valley",
+        "shortcomings": [],
+        "itemId": 1000097
+    },
+    {
+        "name": "The Neon Noodle",
+        "location": "Koreatown",
+        "type": "Ramen bar",
+        "food_style": "Spicy black garlic tonkotsu",
+        "rating": 4.2,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "high-energy night-owl population",
+        "environment": "a room defined by heavy metal music and flickering neon signs",
+        "shortcomings": [],
+        "itemId": 1000098
+    },
+    {
+        "name": "The Stone Orchard",
+        "location": "La Ca\u00f1ada Flintridge",
+        "type": "estate restaurant",
+        "food_style": "Californian",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "refined garden-to-table experience",
+        "environment": "served on a stone terrace that overlooks the San Gabriel Mountains",
+        "shortcomings": [],
+        "itemId": 1000099
+    },
+    {
+        "name": "The Last Crumb",
+        "location": "Silver Lake",
+        "type": "Pastry & Espresso window",
+        "food_style": "desserts and lattes",
+        "rating": 4.5,
+        "price_range": 1,
+        "signatures": [
+            "sea-salt chocolate chip cookies",
+            "rosemary lattes"
+        ],
+        "vibe": "tiny and hip",
+        "environment": "perfect, bite-sized conclusion to the Los Angeles culinary journey",
+        "shortcomings": [],
+        "itemId": 1000100
+    },
+    {
+        "name": "The Velvet Shroom",
+        "location": "Mid-Wilshire",
+        "type": "bistro",
+        "food_style": "Modern Vegetarian",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "lion\u2019s mane \"steak\"",
+            "truffle-infused polenta"
+        ],
+        "vibe": "moody and organic",
+        "environment": "a dim-lit space adorned with velvet curtains and forest-inspired murals that make it a favorite for the museum-going crowd.",
+        "shortcomings": [],
+        "itemId": 1000101
+    },
+    {
+        "name": "Metropolis Grill",
+        "location": "DTLA",
+        "type": "American brasserie",
+        "food_style": "high-octane American cuisine",
+        "rating": 4.1,
+        "price_range": 3,
+        "signatures": [
+            "dry-aged burger",
+            "crispy duck fat fries"
+        ],
+        "vibe": "power lunches turn into happy hours under the city's skyscrapers",
+        "environment": "sleek, glass-walled environment",
+        "shortcomings": [],
+        "itemId": 1000102
+    },
+    {
+        "name": "The Golden Saffron",
+        "location": "Westwood",
+        "type": "fine-dining",
+        "food_style": "Persian",
+        "rating": 4.7,
+        "price_range": 2,
+        "signatures": [
+            "crispy tahdig",
+            "succulent lamb Koobideh"
+        ],
+        "vibe": "an opulent and aromatic Persian fine-dining room",
+        "environment": "a regal setting of gold-leafed mirrors and crystal chandeliers",
+        "shortcomings": [],
+        "itemId": 1000103
+    },
+    {
+        "name": "Pico Provisions",
+        "location": "Picfair Village",
+        "type": "corner cafe",
+        "food_style": "New American",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [
+            "house-cured lox",
+            "lemon-ricotta pancakes"
+        ],
+        "vibe": "neighborhood-centric",
+        "environment": "a relaxed, small, dog-friendly patio that stays packed on weekend mornings",
+        "shortcomings": [],
+        "itemId": 1000104
+    },
+    {
+        "name": "The Neon Mezcal",
+        "location": "Koreatown",
+        "type": "Mexican-Korean Fusion cantina",
+        "food_style": "vibrant and loud",
+        "rating": 4.5,
+        "price_range": 2,
+        "signatures": [
+            "gochujang-glazed pork belly tacos",
+            "kimchi-topped nachos"
+        ],
+        "vibe": "vibrant and loud",
+        "environment": "a space defined by hot pink neon lights and K-pop remixes that fuel the area's legendary nightlife.",
+        "shortcomings": [],
+        "itemId": 1000105
+    },
+    {
+        "name": "Silver Lake Ramen Loft",
+        "location": "Silver Lake",
+        "type": "noodle shop",
+        "food_style": "Japanese ramen",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [
+            "creamy spicy tuna ramen"
+        ],
+        "vibe": "bright, plywood-clad space",
+        "environment": "offers some of the best people-watching in the city",
+        "shortcomings": [],
+        "itemId": 1000106
+    },
+    {
+        "name": "The Brass Cleaver",
+        "location": "Beverly Grove",
+        "type": "Modern Steakhouse",
+        "food_style": "rare wagyu cuts",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "masculine and sophisticated",
+        "environment": "a high-end experience with tableside Caesar salad service and a robust whiskey list, all housed in a room of dark leather booths and polished brass accents",
+        "shortcomings": [],
+        "itemId": 1000107
+    },
+    {
+        "name": "Larchmont Lavender",
+        "location": "Larchmont Village",
+        "type": "French-style bakery and tea room",
+        "food_style": "French pastries",
+        "rating": 4.0,
+        "price_range": 1,
+        "signatures": [
+            "lavender-infused macarons",
+            "flaky almond croissants"
+        ],
+        "vibe": "peaceful sidewalk-seating vibe that feels like a quiet morning in a Parisian suburb",
+        "environment": "serene and fragrant bakery and tea room in a vintage neighborhood",
+        "shortcomings": [
+            "Limited selection beyond pastries"
+        ],
+        "itemId": 1000108
+    },
+    {
+        "name": "The Iron Lotus",
+        "location": "Chinatown",
+        "type": "Dim Sum house",
+        "food_style": "modern Dim Sum",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "truffle-oil shrimp dumplings",
+            "wagyu potstickers"
+        ],
+        "vibe": "moody and contemporary",
+        "environment": "a sleek, dark-wood sanctuary hidden away from the main tourist plazas",
+        "shortcomings": [],
+        "itemId": 1000109
+    },
+    {
+        "name": "Boyle Heights BBQ",
+        "location": "Boyle Heights",
+        "type": "Central Texas-style pit with a Mexican twist",
+        "food_style": "soulful",
+        "rating": 4.8,
+        "price_range": 2,
+        "signatures": [
+            "brisket-stuffed conchas",
+            "jalape\u00f1o-cheddar sausage"
+        ],
+        "vibe": "vibrant and soulful",
+        "environment": "a colorful, mural-covered space that celebrates the intersection of two iconic food cultures.",
+        "shortcomings": [],
+        "itemId": 1000110
+    },
+    {
+        "name": "The Cedar Plank",
+        "location": "Studio City",
+        "type": "Pacific Northwest seafood grill",
+        "food_style": "cedar-planked salmon, huckleberry crisps",
+        "rating": 4.5,
+        "price_range": 2,
+        "signatures": [
+            "cedar-planked salmon",
+            "huckleberry crisps"
+        ],
+        "vibe": "warm and rustic lodge-like environment",
+        "environment": "feels miles away from the nearby movie studios",
+        "shortcomings": [],
+        "itemId": 1000111
+    },
+    {
+        "name": "Mala Market",
+        "location": "Alhambra",
+        "type": "Szechuan noodle stall",
+        "food_style": "mala (numbing sensation)",
+        "rating": 4.6,
+        "price_range": 1,
+        "signatures": [
+            "hand-pulled noodles in fiery chili oil"
+        ],
+        "vibe": "energetic and no-nonsense",
+        "environment": "bright, fast-paced setting",
+        "shortcomings": [],
+        "itemId": 1000112
+    },
+    {
+        "name": "The Green Gable",
+        "location": "Pasadena",
+        "type": "tea house and bistro",
+        "food_style": "modern Californian salads",
+        "rating": 4.3,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "stately and historic English-style tea house",
+        "environment": "a beautifully preserved Victorian-era home surrounded by lush gardens and rose bushes",
+        "shortcomings": [],
+        "itemId": 1000113
+    },
+    {
+        "name": "Velvet Dragon",
+        "location": "Chinatown",
+        "type": "casual",
+        "food_style": "modern Dim Sum",
+        "rating": 4.1,
+        "price_range": null,
+        "signatures": [],
+        "vibe": "minimalist and social",
+        "environment": "bright red accents and large communal tables designed for a younger generation of foodies",
+        "shortcomings": [],
+        "itemId": 1000114
+    },
+    {
+        "name": "The Golden Gyoza",
+        "location": "Northridge",
+        "type": "fast-casual",
+        "food_style": "Japanese dumplings",
+        "rating": 4.1,
+        "price_range": 1,
+        "signatures": [
+            "pan-fried pork gyoza with crispy lace"
+        ],
+        "vibe": "bright, fast-casual, focused on speed and flavor",
+        "environment": "clean, minimalist space",
+        "shortcomings": [],
+        "itemId": 1000115
+    },
+    {
+        "name": "Agave & Oak",
+        "location": "Glendale",
+        "type": "dining room",
+        "food_style": "Modern Mexican",
+        "rating": 4.5,
+        "price_range": 2,
+        "signatures": [
+            "complex moles",
+            "high-end tequila flights"
+        ],
+        "vibe": "sophisticated and airy",
+        "environment": "a chic dining room with high ceilings and warm terracotta tones",
+        "shortcomings": [],
+        "itemId": 1000116
+    },
+    {
+        "name": "The Rustic Rye",
+        "location": "Burbank",
+        "type": "European-style deli and bakery",
+        "food_style": "nostalgic and hearty",
+        "rating": 4.4,
+        "price_range": 1,
+        "signatures": [
+            "pastrami on house-baked rye",
+            "thick-cut potato pancakes"
+        ],
+        "vibe": "timeless neighborhood corner shop where everyone knows your name.",
+        "environment": " ",
+        "shortcomings": [],
+        "itemId": 1000117
+    },
+    {
+        "name": "Saffron Peak",
+        "location": "Eagle Rock",
+        "type": "Himalayan-Fusion kitchen",
+        "food_style": "Nepalese momos with Californian produce",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "vibrant and eclectic",
+        "environment": "a colorful, small dining room filled with prayer flags and the intoxicating aroma of toasted spices.",
+        "shortcomings": [],
+        "itemId": 1000118
+    },
+    {
+        "name": "The Stone Hearth",
+        "location": "Topanga Canyon",
+        "type": "eatery",
+        "food_style": "New American",
+        "rating": 4.7,
+        "price_range": 1,
+        "signatures": [
+            "foraged mushrooms",
+            "wood-fired game"
+        ],
+        "vibe": "mystical and woodland",
+        "environment": "a serene, deck-side dining experience where the sound of the wind in the trees is the only background music.",
+        "shortcomings": [],
+        "itemId": 1000119
+    },
+    {
+        "name": "The Neon Noodle",
+        "location": "Van Nuys",
+        "type": "street food spot",
+        "food_style": "Thai",
+        "rating": 3.9,
+        "price_range": 3,
+        "signatures": [
+            "spicy drunken noodles"
+        ],
+        "vibe": "high-energy cyberpunk",
+        "environment": "glowing blue lights with a constant stream of late-night diners",
+        "shortcomings": [],
+        "itemId": 1000120
+    },
+    {
+        "name": "The Fog & Finch",
+        "location": "Outer Richmond, San Francisco",
+        "type": "Modern British gastropub",
+        "food_style": "elevated fish and chips, smoked sturgeon rillettes",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "smoked sturgeon rillettes",
+            "elevated fish and chips"
+        ],
+        "vibe": "moody and intimate",
+        "environment": "cozy, wood-paneled room where the crackle of a fireplace competes with the crashing of the nearby Pacific waves",
+        "shortcomings": [],
+        "itemId": 1000121
+    },
+    {
+        "name": "Citrus & Adobe",
+        "location": "Old Town San Diego",
+        "type": "kitchen",
+        "food_style": "Baja-Mediterranean",
+        "rating": 4.3,
+        "price_range": 0,
+        "signatures": [
+            "grilled swordfish tacos",
+            "house-made preserve cocktails"
+        ],
+        "vibe": "a vibrant and sun-drenched Baja-Mediterranean kitchen that feels like a coastal getaway",
+        "environment": "a sprawling courtyard shaded by century-old olive trees and strings of bistro lights",
+        "shortcomings": [],
+        "itemId": 1000122
+    },
+    {
+        "name": "The Glass Harvest",
+        "location": "Napa Valley",
+        "type": "Farm-to-Table fine-dining",
+        "food_style": "seasonal micro-greens and estate-grown wagyu",
+        "rating": 4.8,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "architectural marvel",
+        "environment": "provides a dining experience where floor-to-ceiling glass is the only thing between you and the vines.",
+        "shortcomings": [],
+        "itemId": 1000123
+    },
+    {
+        "name": "Indigo Palms",
+        "location": "Palm Springs",
+        "type": "retro-glam and mid-century bistro",
+        "food_style": "Desert Modern",
+        "rating": 4.2,
+        "price_range": 2,
+        "signatures": [
+            "oasis cocktails",
+            "seared ahi tuna with date-palm glaze"
+        ],
+        "vibe": "Rat Pack aesthetics",
+        "environment": "poolside with turquoise accents and mountain views",
+        "shortcomings": [],
+        "itemId": 1000124
+    },
+    {
+        "name": "The Iron Redwood",
+        "location": "Big Sur",
+        "type": "New American eatery",
+        "food_style": "hyper-local New American cuisine",
+        "rating": 4.7,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "rugged and spiritual",
+        "environment": "a dining experience where the dramatic sunset is the main event, perched precariously on a cliffside overlooking Highway 1",
+        "shortcomings": [],
+        "itemId": 1000125
+    },
+    {
+        "name": "The Saffron Cable",
+        "location": "Nob Hill (San Francisco)",
+        "type": "Modern Indian",
+        "food_style": "upscale street food",
+        "rating": 4.5,
+        "price_range": 3,
+        "signatures": [
+            "lobster moilee",
+            "truffle naan"
+        ],
+        "vibe": "hushed and gold-leafed space",
+        "environment": "local legend served in a setting that hums with the distant ring of passing cable cars",
+        "shortcomings": [],
+        "itemId": 1000126
+    },
+    {
+        "name": "Mission Bloom",
+        "location": "Mission District, San Francisco",
+        "type": "taqueria",
+        "food_style": "Oaxacan",
+        "rating": 4.4,
+        "price_range": 4,
+        "signatures": [
+            "grasshopper tacos",
+            "smoky mezcal flights"
+        ],
+        "vibe": "vibrant and high-energy",
+        "environment": "a contemporary art gallery with rotating murals",
+        "shortcomings": [],
+        "itemId": 1000127
+    },
+    {
+        "name": "The Gilded Grape",
+        "location": "Santa Barbara",
+        "type": "bistro",
+        "food_style": "Coastal French",
+        "rating": 4.1,
+        "price_range": 2,
+        "signatures": [
+            "bouillabaisse",
+            "chilled ros\u00e9"
+        ],
+        "vibe": "breezy and elegant",
+        "environment": "outdoor dining under white umbrellas and terracotta archways",
+        "shortcomings": [],
+        "itemId": 1000128
+    },
+    {
+        "name": "The Copper Anchor",
+        "location": "Monterey",
+        "type": "Seafood grill",
+        "food_style": "traditional seafood",
+        "rating": 4.0,
+        "price_range": 1,
+        "signatures": [
+            "thick clam chowder",
+            "dungeness crab cakes"
+        ],
+        "vibe": "history of the Cannery Row area, dining room filled with maritime antiques",
+        "environment": "sweeping views of the sea lion-dotted harbor",
+        "shortcomings": [],
+        "itemId": 1000129
+    },
+    {
+        "name": "Alpine Hearth",
+        "location": "Truckee (Lake Tahoe)",
+        "type": "Mountain-Style steakhouse",
+        "food_style": "Mountain-Style",
+        "rating": 4.6,
+        "price_range": 3,
+        "signatures": [
+            "elk medallions",
+            "huckleberry bread pudding"
+        ],
+        "vibe": "grand lodge-style room with massive pine beams and a central stone hearth",
+        "environment": "the ultimate post-ski comfort",
+        "shortcomings": [],
+        "itemId": 1000130
+    },
+    {
+        "name": "The Velvet Olive",
+        "location": "Los Gatos",
+        "type": "Modern Italian trattoria",
+        "food_style": "Italian",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "handmade chestnut agnolotti",
+            "osso buco"
+        ],
+        "vibe": "sophisticated and hushed",
+        "environment": "a refined, candlelit setting where the service is as polished as the marble bar",
+        "shortcomings": [],
+        "itemId": 1000131
+    },
+    {
+        "name": "Salt & Sage",
+        "location": "Newport Beach",
+        "type": "Californian lounge",
+        "food_style": "seafood and wine",
+        "rating": 4.3,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "upscale and nautical",
+        "environment": "a chic lounge overlooking luxury yacht slips",
+        "shortcomings": [],
+        "itemId": 1000132
+    },
+    {
+        "name": "The Neon Noodle",
+        "location": "Sacramento",
+        "type": "Fusion Ramen shop",
+        "food_style": "traditional tonkotsu broth with unconventional toppings",
+        "rating": 4.1,
+        "price_range": 3,
+        "signatures": [
+            "smoked brisket"
+        ],
+        "vibe": "funky and industrial",
+        "environment": "a high-energy space filled with local graffiti art and upbeat hip-hop",
+        "shortcomings": [],
+        "itemId": 1000133
+    },
+    {
+        "name": "Canyon Canteen",
+        "location": "Ojai",
+        "type": "Plant-Based cafe",
+        "food_style": "Plant-Based",
+        "rating": 4.4,
+        "price_range": 1,
+        "signatures": [
+            "Pink Moment smoothies",
+            "turmeric-roasted cauliflower"
+        ],
+        "vibe": "a rustic outdoor garden where diners often sit on floor cushions or handcrafted wooden stools.",
+        "environment": "epitomizes the town\u2019s spiritual vibe.",
+        "shortcomings": [],
+        "itemId": 1000134
+    },
+    {
+        "name": "The Marble Arch",
+        "location": "Laguna Beach",
+        "type": "theatrical and upscale Mediterranean restaurant",
+        "food_style": "Mediterranean",
+        "rating": 4.9,
+        "price_range": 2,
+        "signatures": [
+            "grilled branzino"
+        ],
+        "vibe": "sensory-overload experience where you dine on grilled branzino while the tide literally crashes against the reinforced glass floors beneath your feet.",
+        "environment": "built into the side of a sea cave",
+        "shortcomings": [],
+        "itemId": 1000135
+    },
+    {
+        "name": "The Golden Artichoke",
+        "location": "Castroville",
+        "type": "Farm-Stop deli",
+        "food_style": "Deep-fried artichoke hearts, artichoke cupcakes",
+        "rating": 3.8,
+        "price_range": 0,
+        "signatures": [
+            "Deep-fried artichoke hearts",
+            "Artichoke cupcakes"
+        ],
+        "vibe": "quirky and historic, kitschy 1960s-era roadside stand",
+        "environment": "mandatory California road trip ritual",
+        "shortcomings": [
+            "Not fancy"
+        ],
+        "itemId": 1000136
+    },
+    {
+        "name": "The Velvet Poppy",
+        "location": "San Luis Obispo",
+        "type": "bistro",
+        "food_style": "Central Coast",
+        "rating": 4.5,
+        "price_range": 3,
+        "signatures": [
+            "triff tip sandwiches",
+            "blackberry-infused salads"
+        ],
+        "vibe": "charming and eclectic",
+        "environment": "a secret garden courtyard surrounded by climbing ivy and the sound of a bubbling stone fountain",
+        "shortcomings": [],
+        "itemId": 1000137
+    },
+    {
+        "name": "Iron & Silk",
+        "location": "Oakland",
+        "type": "gastropub",
+        "food_style": "Japanese-African Fusion",
+        "rating": 4.7,
+        "price_range": 3,
+        "signatures": [
+            "miso-collard greens",
+            "fried chicken with furikake"
+        ],
+        "vibe": "A gritty and stylish Japanese-African fusion gastropub",
+        "environment": "Reclaimed industrial space that captures the city\u2019s creative energy",
+        "shortcomings": [],
+        "itemId": 1000138
+    },
+    {
+        "name": "The Blue Agave",
+        "location": "Healdsburg",
+        "type": "fine-dining",
+        "food_style": "Mexican",
+        "rating": 4.4,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "breezy and upscale",
+        "environment": "a sleek, modern-farmhouse environment that balances the rustic charm of Sonoma County with high-city sophistication.",
+        "shortcomings": [],
+        "itemId": 1000139
+    },
+    {
+        "name": "The Silent Pebble",
+        "location": "Carmel-by-the-Sea",
+        "type": "tea house and sushi bar",
+        "food_style": "Japanese",
+        "rating": 4.8,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "zen and minimalist",
+        "environment": "a hyper-curated omakase experience with the silence as part of the service",
+        "shortcomings": [],
+        "itemId": 1000140
+    },
+    {
+        "name": "The Foghorn",
+        "location": "Half Moon Bay",
+        "type": "American Seafood shack",
+        "food_style": "Dungeness crab rolls, spicy clam chowder",
+        "rating": 4.4,
+        "price_range": 1,
+        "signatures": [
+            "Dungeness crab rolls",
+            "spicy clam chowder"
+        ],
+        "vibe": "rugged and cozy sanctuary",
+        "environment": "weathered cedar-shingle building on the edge of the bluffs, with sea salt-dusted windows and a scent of the tide",
+        "shortcomings": [],
+        "itemId": 1000141
+    },
+    {
+        "name": "Saffron & Salt",
+        "location": "Solana Beach",
+        "type": "bistro",
+        "food_style": "Middle Eastern",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "pomegranate-glazed octopus",
+            "charred halloumi"
+        ],
+        "vibe": "relaxed North County San Diego vibe",
+        "environment": "airy, indoor-outdoor space with white-washed brick and turquoise accents",
+        "shortcomings": [],
+        "itemId": 1000142
+    },
+    {
+        "name": "The Redwood Room",
+        "location": "Eureka",
+        "type": "steakhouse",
+        "food_style": "Northern Californian",
+        "rating": 4.3,
+        "price_range": 2,
+        "signatures": [
+            "grass-fed ribeye",
+            "wild-caught salmon"
+        ],
+        "vibe": "nostalgic fine-dining experience among deep mahogany paneling and velvet booths that echo the city's Victorian roots",
+        "environment": "housed in a historic timber-era mansion",
+        "shortcomings": [
+            "only rated 4.3/5"
+        ],
+        "itemId": 1000143
+    },
+    {
+        "name": "Cactus Flower",
+        "location": "Joshua Tree",
+        "type": "minimalist and eclectic High-Desert cafe",
+        "food_style": "Taco",
+        "rating": 4.1,
+        "price_range": 1,
+        "signatures": [
+            "prickly pear lemonade",
+            "savory date-and-goat-cheese flatbreads"
+        ],
+        "vibe": "sun-bleached patio space where wind chimes and desert sage provide a meditative backdrop.",
+        "environment": "served in a sun-bleached patio space where wind chimes and desert sage provide a meditative backdrop.",
+        "shortcomings": [],
+        "itemId": 1000144
+    },
+    {
+        "name": "The Golden Gate Lounge",
+        "location": "Sausalito",
+        "type": "Continental bistro",
+        "food_style": "seafood towers and martinis",
+        "rating": 4.2,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": null,
+        "environment": "a refined, glass-walled environment that feels like being on the deck of a luxury yacht.",
+        "shortcomings": [],
+        "itemId": 1000145
+    },
+    {
+        "name": "The Mission Hearth",
+        "location": "San Juan Capistrano",
+        "type": "rustic and spiritual eatery",
+        "food_style": "Spanish-Californian",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "wood-fired paella",
+            "slow-roasted pork shoulder"
+        ],
+        "vibe": "courtyard where ancient olive trees are draped in fairy lights and the history of the mission feels present in every stone",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000146
+    },
+    {
+        "name": "Velvet & Vine",
+        "location": "Napa",
+        "type": "wine bar",
+        "food_style": "French-Italian",
+        "rating": 4.7,
+        "price_range": 3,
+        "signatures": [
+            "truffle-honey burrata",
+            "duck liver mousse"
+        ],
+        "vibe": "moody and upscale French-Italian wine bar located in a dimly lit, industrial-chic space",
+        "environment": "perfect low-key retreat after a day of vineyard hopping",
+        "shortcomings": [],
+        "itemId": 1000147
+    },
+    {
+        "name": "The Blue Heron",
+        "location": "Lake Tahoe (South Shore)",
+        "type": "Mountain-Style gastropub",
+        "food_style": "Mountain-Style cuisine",
+        "rating": 4.0,
+        "price_range": 3,
+        "signatures": [
+            "bison sliders",
+            "rosemary-garlic fries"
+        ],
+        "vibe": "local favorite with lively high-ceilinged room and massive stone fireplaces",
+        "environment": "provides the ultimate comfort after a day on the slopes",
+        "shortcomings": [],
+        "itemId": 1000148
+    },
+    {
+        "name": "The Marble Fountain",
+        "location": "Montebello",
+        "type": "Armenian bakery and grill",
+        "food_style": "traditional Armenian",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "Lahmajune",
+            "lule kabobs"
+        ],
+        "vibe": "community hub",
+        "environment": "bustling, white-tablecloth room with warm hospitality",
+        "shortcomings": [],
+        "itemId": 1000149
+    },
+    {
+        "name": "Iron & Agave",
+        "location": "Temecula",
+        "type": "sleek and industrial",
+        "food_style": "Mexican-Fusion",
+        "rating": 4.4,
+        "price_range": 2,
+        "signatures": [
+            "short-rib birria ramen",
+            "smoked pineapple margaritas"
+        ],
+        "vibe": "a modern, high-energy contrast to the more traditional estates found in the valley",
+        "environment": "situated among the rolling wineries.",
+        "shortcomings": [],
+        "itemId": 1000150
+    },
+    {
+        "name": "The Silk Noodle",
+        "location": "Irvine",
+        "type": "minimalist and efficient",
+        "food_style": "Taiwanese",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "",
+        "environment": "",
+        "shortcomings": [],
+        "itemId": 1000151
+    },
+    {
+        "name": "The Painted Pony",
+        "location": "Temescal (Oakland)",
+        "type": "Southwestern cantina",
+        "food_style": "bold spices",
+        "rating": 4.2,
+        "price_range": 0,
+        "signatures": [
+            "blue corn enchiladas",
+            "smoked brisket tacos"
+        ],
+        "vibe": "vibrant and funky",
+        "environment": "an eclectic space filled with vintage neon signs and local graffiti-inspired art",
+        "shortcomings": [],
+        "itemId": 1000152
+    },
+    {
+        "name": "The Glass Onion",
+        "location": "Davis",
+        "type": "Farm-to-Table bistro",
+        "food_style": "seasonal vegetable risotto, heritage pork chops",
+        "rating": 4.3,
+        "price_range": 2,
+        "signatures": [
+            "vegetable risotto",
+            "heritage pork chops"
+        ],
+        "vibe": "relaxed and academic",
+        "environment": "a bright, airy room where the conversation is as intellectual as the menu",
+        "shortcomings": [],
+        "itemId": 1000153
+    },
+    {
+        "name": "Sea & Stone",
+        "location": "La Jolla",
+        "type": "fine-dining",
+        "food_style": "Seafood",
+        "rating": 4.9,
+        "price_range": 2,
+        "signatures": [
+            "local spiny lobster",
+            "sea urchin"
+        ],
+        "vibe": "opulent and romantic",
+        "environment": "a breathtaking view of the Pacific that makes every meal feel like a once-in-a-lifetime event.",
+        "shortcomings": [],
+        "itemId": 1000154
+    },
+    {
+        "name": "The Copper Pot",
+        "location": "Sacramento",
+        "type": "homestyle and welcoming",
+        "food_style": "Southern",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "fried green tomatoes",
+            "smothered chicken"
+        ],
+        "vibe": "a charming dining room that feels like stepping into a family member's home",
+        "environment": "historic Oak Park neighborhood",
+        "shortcomings": [],
+        "itemId": 1000155
+    },
+    {
+        "name": "The Neon Koi",
+        "location": "Japantown, San Jose",
+        "type": "Sushi fusion spot",
+        "food_style": "creative rolls",
+        "rating": 4.0,
+        "price_range": 3,
+        "signatures": [
+            "creative rolls",
+            "sake-bombs"
+        ],
+        "vibe": "cyberpunk and high-energy",
+        "environment": "a loud, neon-lit favorite for the Silicon Valley tech crowd",
+        "shortcomings": [],
+        "itemId": 1000156
+    },
+    {
+        "name": "The Rustic Olive",
+        "location": "Healdsburg",
+        "type": "trattoria",
+        "food_style": "Northern Italian",
+        "rating": 4.5,
+        "price_range": 3,
+        "signatures": [
+            "handmade agnolotti del plin",
+            "wood-fired quail"
+        ],
+        "vibe": "charming and sophisticated",
+        "environment": "an intimate, candlelit patio experience that embodies the slow-food movement of Sonoma County.",
+        "shortcomings": [],
+        "itemId": 1000157
+    },
+    {
+        "name": "The Salted Fig",
+        "location": "Redlands",
+        "type": "New American cafe",
+        "food_style": "New American",
+        "rating": 4.2,
+        "price_range": 4,
+        "signatures": [
+            "citrus-infused salads",
+            "decadent brunch toasts"
+        ],
+        "vibe": "quaint and historic",
+        "environment": "served in a space with high ceilings and original 19th-century brickwork.",
+        "shortcomings": [],
+        "itemId": 1000158
+    },
+    {
+        "name": "The Brass Pelican",
+        "location": "Oxnard",
+        "type": "Seafood shack",
+        "food_style": "local seafood",
+        "rating": 3.9,
+        "price_range": 2,
+        "signatures": [
+            "fish-and-chips",
+            "local bay shrimp"
+        ],
+        "vibe": "no-nonsense, casual",
+        "environment": "serving fresh seafood on picnic tables with a view of the harbor docks and fishing fleet.",
+        "shortcomings": [
+            "not fancy",
+            "casual setting"
+        ],
+        "itemId": 1000159
+    },
+    {
+        "name": "The Velvet Orchard",
+        "location": "Ojai",
+        "type": "plant-based dining room",
+        "food_style": "plant-based",
+        "rating": 4.6,
+        "price_range": 1,
+        "signatures": [
+            "walnut-crusted steaks",
+            "lavender-honey sorbet"
+        ],
+        "vibe": "dreamy and ethereal",
+        "environment": "an outdoor space where the mountain views at sunset (the \"pink moment\") are the main attraction.",
+        "shortcomings": [],
+        "itemId": 1000160
+    },
+    {
+        "name": "The Gilded Rose",
+        "location": "Pasadena",
+        "type": "Afternoon Tea salon",
+        "food_style": "Victorian excess",
+        "rating": 4.1,
+        "price_range": 4,
+        "signatures": [
+            "finger sandwiches",
+            "gold-leafed pastries"
+        ],
+        "vibe": "glamorous and theatrical",
+        "environment": "a room filled with crystal chandeliers, floral wallpapers, and live harp music.",
+        "shortcomings": [],
+        "itemId": 1000161
+    },
+    {
+        "name": "Taco de la Tierra",
+        "location": "Indio",
+        "type": "vibrant and traditional Mexican eatery",
+        "food_style": "",
+        "rating": 4.7,
+        "price_range": 4,
+        "signatures": [
+            "slow-cooked carnitas",
+            "handmade flour tortillas"
+        ],
+        "vibe": "vibrant and traditional",
+        "environment": "colorful, low-slung building that provides a cool escape from the Coachella Valley heat.",
+        "shortcomings": [],
+        "itemId": 1000162
+    },
+    {
+        "name": "The Indigo Peak",
+        "location": "Yosemite (Mariposa)",
+        "type": "High-Country grill",
+        "food_style": "rustic",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "bison burgers",
+            "berry cobblers"
+        ],
+        "vibe": "lodge-style room",
+        "environment": "a massive wraparound deck overlooking the Sierra foothills.",
+        "shortcomings": [],
+        "itemId": 1000163
+    },
+    {
+        "name": "The Silver Spoon",
+        "location": "San Francisco (Pacific Heights)",
+        "type": "elegant and hushed Contemporary French dining room",
+        "food_style": "Contemporary French",
+        "rating": 4.8,
+        "price_range": 4,
+        "signatures": [
+            "caviar",
+            "truffles"
+        ],
+        "vibe": "hyper-refined menu",
+        "environment": "a space of muted grays and crisp linens",
+        "shortcomings": [],
+        "itemId": 1000164
+    },
+    {
+        "name": "The Neon Noodle",
+        "location": "Anaheim",
+        "type": "fusion cafe",
+        "food_style": "Japanese-Vietnamese",
+        "rating": 4.2,
+        "price_range": 4,
+        "signatures": [
+            "lemongrass pork belly ramen",
+            "colorful boba cocktails"
+        ],
+        "vibe": "festive and high-energy",
+        "environment": "a space that glows with primary colors and pop-art murals",
+        "shortcomings": [],
+        "itemId": 1000165
+    },
+    {
+        "name": "Mandalay Moon",
+        "location": "The Inner Richmond",
+        "type": "Burmese",
+        "food_style": "Burmese",
+        "rating": 4.6,
+        "price_range": 3,
+        "signatures": [
+            "tea leaf salad"
+        ],
+        "vibe": "history of the area",
+        "environment": "a narrow, golden-hued room that feels like a well-loved family dining room.",
+        "shortcomings": [],
+        "itemId": 1000166
+    },
+    {
+        "name": "The Iron Forge",
+        "location": "Truckee",
+        "type": "steakhouse",
+        "food_style": "Mountain-Style",
+        "rating": 4.5,
+        "price_range": 2,
+        "signatures": [
+            "bison ribeye",
+            "huckleberry-glazed elk"
+        ],
+        "vibe": "a grand lodge environment with massive pine beams and a central stone fireplace that roars all winter long.",
+        "environment": "a grand lodge environment with massive pine beams and a central stone fireplace that roars all winter long.",
+        "shortcomings": [],
+        "itemId": 1000167
+    },
+    {
+        "name": "Saffron Cable",
+        "location": "Nob Hill (San Francisco)",
+        "type": "narrow Modern Indian",
+        "food_style": "Modern Indian",
+        "rating": 4.4,
+        "price_range": 2,
+        "signatures": [
+            "lobster moilee",
+            "truffle naan"
+        ],
+        "vibe": "sophisticated and hushed with gold-leaf accents",
+        "environment": "an upscale atmosphere that matches the city's old-world elegance, overlooking the passing cable cars",
+        "shortcomings": [],
+        "itemId": 1000168
+    },
+    {
+        "name": "The Golden Artichoke",
+        "location": "Castroville",
+        "type": "Roadside deli",
+        "food_style": "Artichoke-based comfort food",
+        "rating": 3.8,
+        "price_range": 4,
+        "signatures": [
+            "deep-fried artichoke hearts",
+            "artichoke cupcakes"
+        ],
+        "vibe": "quirky and nostalgic",
+        "environment": "a kitschy 1960s-style diner that celebrates California\u2019s agricultural eccentricities",
+        "shortcomings": [],
+        "itemId": 1000169
+    },
+    {
+        "name": "The Velvet Poppy",
+        "location": "San Luis Obispo",
+        "type": "bistro",
+        "food_style": "Central Coast",
+        "rating": 4.5,
+        "price_range": 1,
+        "signatures": [
+            "tri-tip sliders",
+            "blackberry-infused salads"
+        ],
+        "vibe": "charming and eclectic",
+        "environment": "charming and eclectic bistro tucked into a historic brick alleyway",
+        "shortcomings": [],
+        "itemId": 1000170
+    },
+    {
+        "name": "Indigo Palms",
+        "location": "Palm Springs",
+        "type": "retro-glam and mid-century",
+        "food_style": "Desert Modern",
+        "rating": 4.2,
+        "price_range": 3,
+        "signatures": [
+            "oasis martinis",
+            "date-palm glazed ahi tuna"
+        ],
+        "vibe": "retro-glam and mid-century",
+        "environment": "poolside under turquoise umbrellas with a panoramic view of the San Jacinto Mountains",
+        "shortcomings": [],
+        "itemId": 1000171
+    },
+    {
+        "name": "The Fog & Finch",
+        "location": "Half Moon Bay",
+        "type": "Seafood gastropub",
+        "food_style": "local seafood",
+        "rating": 4.7,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "moody and intimate",
+        "environment": "a cozy, wood-paneled escape where the sound of the crashing surf is the only soundtrack",
+        "shortcomings": [],
+        "itemId": 1000172
+    },
+    {
+        "name": "Tower Terrace",
+        "location": "Sacramento",
+        "type": "International",
+        "food_style": "",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [
+            "French Toast"
+        ],
+        "vibe": "lush and vibrant, feels like a tropical oasis in the middle of the city",
+        "environment": "a sprawling outdoor garden located right next to the historic Tower Theatre",
+        "shortcomings": [],
+        "itemId": 1000173
+    },
+    {
+        "name": "The Glass Harvest",
+        "location": "Napa",
+        "type": "fine-dining",
+        "food_style": "Farm-to-Table",
+        "rating": 4.8,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "architectural marvel with floor-to-ceiling glass that makes diners feel part of the landscape",
+        "environment": "situated directly in the vines with a multi-course tasting menu that changes with the micro-seasons",
+        "shortcomings": [],
+        "itemId": 1000174
+    },
+    {
+        "name": "Taco de la Tierra",
+        "location": "Indio",
+        "type": "vibrant and traditional Mexican canteen",
+        "food_style": "slow-cooked carnitas and handmade flour tortillas",
+        "rating": 4.6,
+        "price_range": 2,
+        "signatures": [
+            "slow-cooked carnitas",
+            "handmade flour tortillas"
+        ],
+        "vibe": "colorful, low-slung building offering a cool, shaded retreat from the desert sun",
+        "environment": "scoring a 4.6/5, serving legendary Mexican dishes in the Coachella Valley",
+        "shortcomings": [],
+        "itemId": 1000175
+    },
+    {
+        "name": "The Silver Spoon",
+        "location": "San Francisco (Pacific Heights)",
+        "type": "Contemporary French dining room",
+        "food_style": "hyper-refined French cuisine with caviar and truffles",
+        "rating": 4.8,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "elegant and hushed",
+        "environment": "a space of muted grays and crisp linens that defines high-society dining",
+        "shortcomings": [],
+        "itemId": 1000176
+    },
+    {
+        "name": "Iron & Silk",
+        "location": "Oakland",
+        "type": "Japanese-African Fusion lounge",
+        "food_style": "soul-food-inspired sushi",
+        "rating": 4.7,
+        "price_range": 3,
+        "signatures": [
+            "spicy tuna with collard green wraps"
+        ],
+        "vibe": "gritty and stylish",
+        "environment": "reclaimed industrial space that captures the city\u2019s creative pulse",
+        "shortcomings": [],
+        "itemId": 1000177
+    },
+    {
+        "name": "The Blue Agave",
+        "location": "Healdsburg",
+        "type": "fine-dining",
+        "food_style": "Mexican",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "duck mole",
+            "artisanal tequila pairings"
+        ],
+        "vibe": "breezy and upscale",
+        "environment": "a sleek, modern-farmhouse environment that balances Sonoma\u2019s rustic charm with city sophistication.",
+        "shortcomings": [],
+        "itemId": 1000178
+    },
+    {
+        "name": "Alpine Hearth",
+        "location": "South Lake Tahoe",
+        "type": "Mountain-Style grill",
+        "food_style": "hearty comfort food",
+        "rating": 4.0,
+        "price_range": 3,
+        "signatures": [
+            "venison stew",
+            "rosemary-garlic fries"
+        ],
+        "vibe": "lively and spacious",
+        "environment": "casual dining with a view of the marina",
+        "shortcomings": [],
+        "itemId": 1000179
+    },
+    {
+        "name": "The Silent Pebble",
+        "location": "Carmel-by-the-Sea",
+        "type": "sushi bar",
+        "food_style": "Japanese",
+        "rating": 4.9,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "zen and minimalist",
+        "environment": "focus on texture and sound",
+        "shortcomings": [],
+        "itemId": 1000180
+    },
+    {
+        "name": "The Brass Pelican",
+        "location": "Oxnard",
+        "type": "Seafood shack",
+        "food_style": "salty and no-nonsense",
+        "rating": 3.9,
+        "price_range": 3,
+        "signatures": [
+            "fish-and-chips"
+        ],
+        "vibe": "salty and no-nonsense",
+        "environment": "a seafood shack right on the harbor docks, served on picnic tables with a front-row seat to the local working fishing fleet",
+        "shortcomings": [
+            "isn't fancy"
+        ],
+        "itemId": 1000181
+    },
+    {
+        "name": "The Velvet Orchard",
+        "location": "Ojai",
+        "type": "Plant-Based",
+        "food_style": "dreamy and ethereal",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "spiritual retreat",
+        "environment": "an outdoor space with magical glow",
+        "shortcomings": [],
+        "itemId": 1000182
+    },
+    {
+        "name": "The Gilded Rose",
+        "location": "Pasadena",
+        "type": "Afternoon Tea salon",
+        "food_style": "gold-leafed pastries, sandwiches",
+        "rating": 4.1,
+        "price_range": 4,
+        "signatures": [
+            "gold-leafed pastries",
+            "three tiers of sandwiches"
+        ],
+        "vibe": "glamorous and theatrical",
+        "environment": "room filled with crystal chandeliers, floral wallpapers, and live harp music",
+        "shortcomings": [],
+        "itemId": 1000183
+    },
+    {
+        "name": "Sea & Stone",
+        "location": "La Jolla",
+        "type": "fine-dining",
+        "food_style": "Seafood",
+        "rating": 4.9,
+        "price_range": 4,
+        "signatures": [
+            ""
+        ],
+        "vibe": "opulent and romantic",
+        "environment": "built directly into the sea cliffs",
+        "shortcomings": [],
+        "itemId": 1000184
+    },
+    {
+        "name": "The Copper Pot",
+        "location": "Sacramento (Oak Park)",
+        "type": "homestyle Southern kitchen",
+        "food_style": "Southern",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "fried green tomatoes",
+            "smothered chicken"
+        ],
+        "vibe": "homestyle and welcoming",
+        "environment": "intimate and charming, cornerstone of the neighborhood",
+        "shortcomings": [],
+        "itemId": 1000185
+    },
+    {
+        "name": "The Neon Koi",
+        "location": "Japantown (San Jose)",
+        "type": "fusion spot",
+        "food_style": "Sushi fusion",
+        "rating": 4.0,
+        "price_range": 2,
+        "signatures": [
+            "creative rolls",
+            "sake-bombs"
+        ],
+        "vibe": "cyberpunk and high-energy",
+        "environment": "a loud, neon-lit environment favored by the Silicon Valley tech crowd",
+        "shortcomings": [],
+        "itemId": 1000186
+    },
+    {
+        "name": "The Rustic Olive",
+        "location": "St. Helena",
+        "type": "Northern Italian trattoria",
+        "food_style": "candlelit patio",
+        "rating": 4.5,
+        "price_range": 3,
+        "signatures": [
+            "handmade agnolotti",
+            "wood-fired quail"
+        ],
+        "vibe": "quiet, vineyard-lined road",
+        "environment": "an intimate, candlelit patio experience",
+        "shortcomings": [],
+        "itemId": 1000187
+    },
+    {
+        "name": "The Salted Fig",
+        "location": "Redlands",
+        "type": "cafe",
+        "food_style": "New American",
+        "rating": 4.2,
+        "price_range": 2,
+        "signatures": [
+            "citrus-infused salads",
+            "decadent brunch toasts"
+        ],
+        "vibe": "quaint and historic cafe in the heritage district",
+        "environment": "space with soaring ceilings and original 19th-century brickwork",
+        "shortcomings": [],
+        "itemId": 1000188
+    },
+    {
+        "name": "The Painted Pony",
+        "location": "Temescal (Oakland)",
+        "type": "cantina",
+        "food_style": "Southwestern",
+        "rating": 4.2,
+        "price_range": 2,
+        "signatures": [
+            "blue corn enchiladas",
+            "smoked brisket tacos"
+        ],
+        "vibe": "vibrant and funky",
+        "environment": "an eclectic space filled with vintage neon signs and local art",
+        "shortcomings": [],
+        "itemId": 1000189
+    },
+    {
+        "name": "The Glass Onion",
+        "location": "Davis",
+        "type": "Farm-to-Table bistro",
+        "food_style": "seasonal vegetable risotto",
+        "rating": 4.3,
+        "price_range": 2,
+        "signatures": [],
+        "vibe": "relaxed and academic",
+        "environment": "a bright, airy room where the conversation is as intellectual as the menu",
+        "shortcomings": [],
+        "itemId": 1000190
+    },
+    {
+        "name": "The French Laundry",
+        "location": "Yountville",
+        "type": "French",
+        "food_style": "French",
+        "rating": 5.0,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "a world-class dining experience in a setting that remains surprisingly intimate and unpretentious",
+        "environment": "a world-class dining experience in a setting that remains surprisingly intimate and unpretentious",
+        "shortcomings": [],
+        "itemId": 1000191
+    },
+    {
+        "name": "Jack\u2019s Grill",
+        "location": "Redding",
+        "type": "steakhouse",
+        "food_style": "American",
+        "rating": 4.3,
+        "price_range": 4,
+        "signatures": [
+            "hand-cut steaks",
+            "stiff cocktails"
+        ],
+        "vibe": "time-capsule and unapologetic",
+        "environment": "a dim, wood-paneled room where retro isn't a design choice, it's the authentic reality of a local legend",
+        "shortcomings": [],
+        "itemId": 1000192
+    },
+    {
+        "name": "Peasant\u2019s Feast",
+        "location": "Solvang",
+        "type": "bistro",
+        "food_style": "Californian",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [
+            "seasonal sandwiches",
+            "local rockfish tacos"
+        ],
+        "vibe": "bright, community-focused space that prioritizes the bounty of the Santa Ynez Valley over tourist tropes.",
+        "environment": "a modern and soulful bistro bringing a contemporary edge to a town known for Danish kitsch.",
+        "shortcomings": [],
+        "itemId": 1000193
+    },
+    {
+        "name": "Caf\u00e9 Beaujolais",
+        "location": "Mendocino",
+        "type": "classic",
+        "food_style": "French-Californian",
+        "rating": 4.7,
+        "price_range": 2,
+        "signatures": [
+            "Liberty Farms duck",
+            "wild-caught local seafood"
+        ],
+        "vibe": "cosy, elegant",
+        "environment": "a warm embrace from a bygone era of coastal elegance",
+        "shortcomings": [],
+        "itemId": 1000194
+    },
+    {
+        "name": "Mulvaney\u2019s B&L",
+        "location": "Sacramento",
+        "type": "New American eatery",
+        "food_style": "Farm-to-Fork",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [
+            "heritage pork platters",
+            "heirloom tomato dishes"
+        ],
+        "vibe": "Farm-to-Fork movement",
+        "environment": "the heartbeat of the city in a vibrant and robust setting within a converted 19th-century firehouse",
+        "shortcomings": [],
+        "itemId": 1000195
+    },
+    {
+        "name": "Paula's Pancake House",
+        "location": "Solvang",
+        "type": "breakfast spot",
+        "food_style": "Danish-American",
+        "rating": 4.2,
+        "price_range": 4,
+        "signatures": [
+            "thin, buttery Danish pancakes topped with berries"
+        ],
+        "vibe": "lively, cottage-style room with a generational history",
+        "environment": "a rite of passage for morning travelers in Solvang",
+        "shortcomings": [],
+        "itemId": 1000196
+    },
+    {
+        "name": "Granzella's",
+        "location": "Williams",
+        "type": "quirky and expansive Italian-American pit stop",
+        "food_style": "deli, taxidermy-filled lounge, bakery",
+        "rating": 4.0,
+        "price_range": 3,
+        "signatures": [
+            "massive Muffuletta sandwiches",
+            "jars of house-made olives"
+        ],
+        "vibe": "Old California roadside experience",
+        "environment": "quirky and expansive",
+        "shortcomings": [
+            "not fancy"
+        ],
+        "itemId": 1000197
+    },
+    {
+        "name": "Mosaic Restaurant",
+        "location": "Redding",
+        "type": "sleek and modern grill",
+        "food_style": "Californian",
+        "rating": 4.4,
+        "price_range": 2,
+        "signatures": [
+            "wood-fired pizzas",
+            "crispy Brussels sprouts with lemon marmalade"
+        ],
+        "vibe": "sophisticated, glass-walled environment",
+        "environment": "connects diners to the scenic Sacramento River",
+        "shortcomings": [],
+        "itemId": 1000198
+    },
+    {
+        "name": "Workshop Kitchen + Bar",
+        "location": "Palm Springs",
+        "type": "industrial high-concept New American powerhouse",
+        "food_style": "market-driven small plates",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "brutalist, concrete-heavy space that stands as a stark, chic contrast to the town's usual mid-century pastels.",
+        "environment": "a converted 1920s theater",
+        "shortcomings": [],
+        "itemId": 1000199
+    },
+    {
+        "name": "Chez Panisse",
+        "location": "Berkeley",
+        "type": "Californian kitchen",
+        "food_style": "farm-to-table",
+        "rating": 4.8,
+        "price_range": 1,
+        "signatures": [],
+        "vibe": "revolutionary and timeless",
+        "environment": "a warm, copper-lit sanctuary where every meal feels like a tribute to the soil and the season.",
+        "shortcomings": [],
+        "itemId": 1000200
+    },
+    {
+        "name": "The Neon Lotus",
+        "location": "Koreatown",
+        "type": "casual fine-dining",
+        "food_style": "Korean fusion",
+        "rating": 4.7,
+        "price_range": 3,
+        "signatures": [
+            "Kimchi Carbonara"
+        ],
+        "vibe": "high-energy electric ambiance",
+        "environment": "a vibrant modern Korean fusion spot in the heart of Koreatown with moody purple LED accents and sleek charcoal furniture",
+        "shortcomings": [
+            "music can get a bit loud on weekends"
+        ],
+        "itemId": 1000201
+    },
+    {
+        "name": "Saffron & Sage",
+        "location": "Glendale",
+        "type": "upscale Persian dining",
+        "food_style": "traditional Persian",
+        "rating": 4.8,
+        "price_range": 2,
+        "signatures": [
+            "succulent lamb koobideh",
+            "fragrant saffron-infused rice"
+        ],
+        "vibe": "quiet elegance",
+        "environment": "sophisticated crowd seeking traditional flavors in a refined setting",
+        "shortcomings": [
+            "requires booking weeks in advance for Friday night reservations"
+        ],
+        "itemId": 1000202
+    },
+    {
+        "name": "Cactus Flower",
+        "location": "Echo Park",
+        "type": "trendy vegan Mexican bistro",
+        "food_style": "plant-based Mexican",
+        "rating": 4.2,
+        "price_range": 4,
+        "signatures": [
+            "jackfruit carnitas",
+            "house-made cashew crema"
+        ],
+        "vibe": "boho-chic escape filled with hanging succulents and reclaimed wood tables",
+        "environment": "relaxed, sun-drenched space perfect for long lunches and health-conscious gatherings",
+        "shortcomings": [],
+        "itemId": 1000203
+    },
+    {
+        "name": "Iron Griddle",
+        "location": "Torrance",
+        "type": "Japanese BBQ house",
+        "food_style": "all-you-can-eat",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "high-energy venue",
+        "environment": "industrial-style with exposed brick and heavy-duty ventilation systems at every table",
+        "shortcomings": [
+            "can get quite smoky"
+        ],
+        "itemId": 1000204
+    },
+    {
+        "name": "The Salty Pelican",
+        "location": "Santa Monica",
+        "type": "beachfront cafe",
+        "food_style": "",
+        "rating": 3.9,
+        "price_range": 1,
+        "signatures": [
+            "generous lobster rolls"
+        ],
+        "vibe": "prime view of the Pacific",
+        "environment": "casual and airy environment defined by blue-and-white nautical themes, a perfect, sun-soaked pitstop for tourists and locals, quintessential coastal experience with people-watching",
+        "shortcomings": [
+            "slightly higher prices due to premier location"
+        ],
+        "itemId": 1000205
+    },
+    {
+        "name": "Velvet Dragon",
+        "location": "Chinatown",
+        "type": "casual eatery",
+        "food_style": "Dim Sum",
+        "rating": 4.1,
+        "price_range": 1,
+        "signatures": [
+            "truffle-infused siu mai",
+            "charcoal custard buns"
+        ],
+        "vibe": "modern and minimalist",
+        "environment": "a minimalist and social casual eatery in the historic center of Chinatown with bright red accents and large communal tables for a fast-paced dining experience.",
+        "shortcomings": [
+            "Prioritizes culinary innovation over the classic 'rolling cart' experience"
+        ],
+        "itemId": 1000206
+    },
+    {
+        "name": "Maple & Moss",
+        "location": "Pasadena",
+        "type": "organic farm-to-table brunch cafe",
+        "food_style": "organic",
+        "rating": 4.6,
+        "price_range": 4,
+        "signatures": [
+            "lemon-ricotta pancakes",
+            "seasonal vegetable frittatas"
+        ],
+        "vibe": "lush and light-filled with an indoor garden and floor-to-ceiling windows",
+        "environment": "a serene escape from the city\u2019s concrete bustle",
+        "shortcomings": [
+            "highly popular on weekends, early arrival advised for garden seating"
+        ],
+        "itemId": 1000207
+    },
+    {
+        "name": "Taco Cloud",
+        "location": "Boyle Heights",
+        "type": "high-concept fast-food stand",
+        "food_style": "Mexican",
+        "rating": 4.4,
+        "price_range": 3,
+        "signatures": [
+            "cloud-style fluffy flour tortillas",
+            "carne asada",
+            "signature Avocado Foam"
+        ],
+        "vibe": "high-concept fast-food",
+        "environment": "no-frills outdoor-focused with bright yellow metal stools and a constant, hungry queue of locals, offering arguably the best value-for-money meal in the area",
+        "shortcomings": [],
+        "itemId": 1000208
+    },
+    {
+        "name": "The Pasta Project",
+        "location": "Silver Lake",
+        "type": "minimalist Italian bistro",
+        "food_style": "hand-rolled pasta Italian",
+        "rating": 4.3,
+        "price_range": 3,
+        "signatures": [
+            "cacio e pepe"
+        ],
+        "vibe": "transparent dining environment that emphasizes craftsmanship, with a minimalist and intimate atmosphere",
+        "environment": "minimalist and intimate Italian bistro located directly on Sunset Boulevard with an open kitchen",
+        "shortcomings": [
+            "seating can feel a bit cramped during the evening rush in this trendy neighborhood hub"
+        ],
+        "itemId": 1000209
+    },
+    {
+        "name": "Blue Velvet",
+        "location": "West Hollywood",
+        "type": "classic American speakeasy and bistro",
+        "food_style": "",
+        "rating": 4.5,
+        "price_range": 4,
+        "signatures": [],
+        "vibe": "moody and romantic retreat",
+        "environment": "upscale sanctuary with dark leather booths, dimmed candlelight, and live jazz on Thursday nights",
+        "shortcomings": [
+            "an expensive night out"
+        ],
+        "itemId": 1000210
+    }
+]
